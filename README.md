@@ -1,2 +1,2 @@
-# csi_cl
+# css_cl
 Cover Song Similarity using Dimensional Mapping and Contrastive Loss

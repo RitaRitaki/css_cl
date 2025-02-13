@@ -1,2 +1,2 @@
 # csi_cl
-Cover Song Similarity using Dimensionality Reduction and Contrastive Loss
+Cover Song Similarity using Dimensional Mapping and Contrastive Loss
